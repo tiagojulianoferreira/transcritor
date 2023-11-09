@@ -1,0 +1,4 @@
+streamlit
+pytube
+openai-whisper
+os
