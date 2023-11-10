@@ -12,7 +12,7 @@ apt-get install ffmpeg
 
 ## Instalação
 ```shell
-clone the repo with git clone https://github.com/tiagojulianoferreira/transcritor.git
+git clone https://github.com/tiagojulianoferreira/transcritor.git
 cd transcritor/
 pip3 install -r requirements.txt
 streamlit run app.py
