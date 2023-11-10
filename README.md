@@ -9,8 +9,9 @@ Esta aplicação transcreve áudio em texto usando a biblioteca OpenAI Whisper a
 - Debian Linux
 
 ## Instale o ffmpeg no host
+```shell
 apt-get install ffmpeg
-
+```
 ## Instalação
 ```shell
 git clone https://github.com/tiagojulianoferreira/transcritor.git
