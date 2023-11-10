@@ -17,7 +17,7 @@ cd transcritor/
 pip3 install -r requirements.txt
 streamlit run app.py
 ```
-Abre http://localhost:8501 no seu navegador
+Abra http://localhost:8501 no seu navegador
 
 # Help
 Se você tiver algum problema, tente reinstalar o pytube.
