@@ -3,6 +3,7 @@ Esta aplicação transcreve áudio em texto usando a biblioteca OpenAI Whisper a
 
 ## Tecnologias
 - Python 3
+- Pytube
 - [Streamlit (GUI)](https://streamlit.io/)
 - [openai-whisper](https://github.com/openai/whisper)
 - Debian Linux
